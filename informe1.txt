@@ -1,2 +1,4 @@
 Hoy utilizaremos gitbub
 que es un repositorio remoto
+
+agregaremos un repositorio realizado en git 
